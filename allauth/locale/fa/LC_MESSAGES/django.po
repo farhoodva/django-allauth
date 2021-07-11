@@ -256,7 +256,7 @@ msgstr "اپلیکیشن های اجتماعی"
 
 #: socialaccount/models.py:105
 msgid "uid"
-msgstr "شناسه‌ کاربری"
+msgstr "شناسه کاربری"
 
 #: socialaccount/models.py:107
 msgid "last login"
@@ -437,7 +437,7 @@ msgstr ""
 "سلام،\n"
 "\n"
 "این ایمیل را دریافت کرده اید چون کاربر %(user_display)s نشانی ایمیل شما را "
-"برای اتصال به حساب‌ خود در %(site_name)s وارد کرده است.\n"
+"برای اتصال به حساب خود در %(site_name)s وارد کرده است.\n"
 "\n"
 "لطفا برای تایید درستی این ایمیل به %(activate_url)s بروید.\n"
 
