@@ -2,6 +2,18 @@
 {% load account %}
 {% load i18n %}
 
-{% block content %}{% autoescape off %}{% user_display user as user_display %}{% blocktrans with site_name=current_site.name site_domain=current_site.domain %}You're receiving this e-mail because user {{ user_display }} has given your e-mail address to register an account on {{ site_domain }}.
+{% block content %}
+{% autoescape off %}
+{% user_display user as user_display %}
+شما این ایمیل را دریافت کردید چون کاربر
+{{ user_display }}
+ایمیل شما را برای ثبت نام در سایت ما وارد کرده است
+{{ site_domain }}.
 
-To confirm this is correct, go to {{ activate_url }}{% endblocktrans %}{% endautoescape %}{% endblock %}
+برای تایید ایمیل لطفا به لینک زیر بروید
+{{ activate_url }}
+
+{% endautoescape %}
+
+
+{% endblock %}
