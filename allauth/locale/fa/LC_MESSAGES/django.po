@@ -36,7 +36,7 @@ msgstr "رمز عبور باید حداقل {0} کاراکتر باشد."
 #: account/apps.py:7
 #, fuzzy
 msgid "Accounts"
-msgstr "حساب‌ها"
+msgstr "حساب ها"
 
 #: account/forms.py:58 account/forms.py:403
 msgid "You must type the same password each time."
@@ -96,7 +96,7 @@ msgstr "ایمیل (از نو)"
 #, fuzzy
 #| msgid "email confirmation"
 msgid "E-mail address confirmation"
-msgstr "تائیدیه ‌ نشانی ایمیل"
+msgstr "تائیدیه نشانی ایمیل"
 
 #: account/forms.py:311
 msgid "E-mail (optional)"
@@ -106,7 +106,7 @@ msgstr "ایمیل (اختیاری)"
 #, fuzzy
 #| msgid "You must type the same password each time."
 msgid "You must type the same email each time."
-msgstr "هر بار باید ایمیل‌ یکسانی وارد کنید ."
+msgstr "هر بار باید ایمیل یکسانی وارد کنید ."
 
 #: account/forms.py:374 account/forms.py:487
 msgid "Password (again)"
@@ -126,7 +126,7 @@ msgstr "این نشانی ایمیل از قبل به حساب دیگری وصل
 #, fuzzy, python-format
 #| msgid "Your account has no verified e-mail address."
 msgid "You cannot add more than %d e-mail addresses."
-msgstr "حساب‌ شما هیچ ایمیل‌ تایید‌ شده‌ ای ندارد ."
+msgstr "حساب شما هیچ ایمیل تایید شده ای ندارد ."
 
 #: account/forms.py:467
 msgid "Current Password"
@@ -142,7 +142,7 @@ msgstr "رمز عبور جدید (تکرار)"
 
 #: account/forms.py:477
 msgid "Please type your current password."
-msgstr "لطفاً رمز عبور کنونی‌‌ را وارد کنید"
+msgstr "لطفاً رمز عبور کنونی را وارد کنید"
 
 #: account/forms.py:516
 msgid "The e-mail address is not assigned to any user account"
@@ -190,18 +190,18 @@ msgstr "کلید"
 
 #: account/models.py:93
 msgid "email confirmation"
-msgstr "تائیدیه‌ ایمیل"
+msgstr "تائیدیه ایمیل"
 
 #: account/models.py:94
 msgid "email confirmations"
-msgstr "تائیدیه‌ های ایمیل"
+msgstr "تائیدیه های ایمیل"
 
 #: socialaccount/adapter.py:26
 #, python-format
 msgid ""
 "An account already exists with this e-mail address. Please sign in to that "
 "account first, then connect your %s account."
-msgstr "یک حساب‌ کاربری با این نشانی ایمیل وجود دارد، لطفاً نخست وارد آن شوید، سپس حساب خود را به آن متصل کنید . "
+msgstr "یک حساب کاربری با این نشانی ایمیل وجود دارد، لطفاً نخست وارد آن شوید، سپس حساب خود را به آن متصل کنید . "
 
 #: socialaccount/adapter.py:131
 msgid "Your account has no password set up."
@@ -209,12 +209,12 @@ msgstr "هیچ رمز عبوری برای این حساب تعریف نشده ا
 
 #: socialaccount/adapter.py:141
 msgid "Your account has no verified e-mail address."
-msgstr "حساب‌ شما هیچ ایمیل‌ تایید ‌شده‌ ای ندارد ."
+msgstr "حساب شما هیچ ایمیل تایید شده ای ندارد ."
 
 #: socialaccount/apps.py:7
 #, fuzzy
 msgid "Social Accounts"
-msgstr "حساب‌ شبکه های اجتماعی"
+msgstr "حساب شبکه های اجتماعی"
 
 #: socialaccount/models.py:41 socialaccount/models.py:84
 msgid "provider"
@@ -252,7 +252,7 @@ msgstr "اپلیکیشن اجتماعی"
 
 #: socialaccount/models.py:75
 msgid "social applications"
-msgstr "اپلیکیشن ‌های اجتماعی"
+msgstr "اپلیکیشن های اجتماعی"
 
 #: socialaccount/models.py:105
 msgid "uid"
@@ -276,7 +276,7 @@ msgstr "حساب شبکه اجتماعی"
 
 #: socialaccount/models.py:114
 msgid "social accounts"
-msgstr "حساب ‌های شبکه های اجتماعی"
+msgstr "حساب های شبکه های اجتماعی"
 
 #: socialaccount/models.py:139
 msgid "token"
@@ -304,7 +304,7 @@ msgstr "توکن اپلیکشن اجتماعی"
 
 #: socialaccount/models.py:154
 msgid "social application tokens"
-msgstr "توکن‌های اپلیکیشن اجتماعی"
+msgstr "توکن های اپلیکیشن اجتماعی"
 
 #: socialaccount/providers/douban/views.py:36
 msgid "Invalid profile data"
@@ -342,15 +342,15 @@ msgstr "حساب غیرفعال"
 
 #: templates/account/account_inactive.html:10
 msgid "This account is inactive."
-msgstr "این حساب‌ کاربری غیرفعال است."
+msgstr "این حساب کاربری غیرفعال است."
 
 #: templates/account/email.html:5 templates/account/email.html:8
 msgid "E-mail Addresses"
-msgstr "نشانی ‌های ایمیل"
+msgstr "نشانی های ایمیل"
 
 #: templates/account/email.html:10
 msgid "The following e-mail addresses are associated with your account:"
-msgstr "نشانی‌ های ایمیل زیر به حساب‌ شما متصل شده‌ اند :"
+msgstr "نشانی های ایمیل زیر به حساب شما متصل شده اند :"
 
 #: templates/account/email.html:24
 msgid "Verified"
@@ -358,7 +358,7 @@ msgstr "تایید شده"
 
 #: templates/account/email.html:26
 msgid "Unverified"
-msgstr "تایید ‌نشده"
+msgstr "تایید نشده"
 
 #: templates/account/email.html:28
 msgid "Primary"
@@ -415,7 +415,7 @@ msgid ""
 "Thank you for using %(site_name)s!\n"
 "%(site_domain)s"
 msgstr ""
-"برای استفاده از سایت ما سپاس ‌گزاریم ."
+"برای استفاده از سایت ما سپاس گزاریم ."
 
 
 #: templates/account/email/email_confirmation_message.txt:5
@@ -436,7 +436,7 @@ msgid ""
 msgstr ""
 "سلام،\n"
 "\n"
-"این ایمیل را دریافت کرده اید چون کاربر %(user_display)s نشانی ایمیل‌ شما را "
+"این ایمیل را دریافت کرده اید چون کاربر %(user_display)s نشانی ایمیل شما را "
 "برای اتصال به حساب‌ خود در %(site_name)s وارد کرده است.\n"
 "\n"
 "لطفا برای تایید درستی این ایمیل به %(activate_url)s بروید.\n"
@@ -464,11 +464,11 @@ msgstr ""
 #: templates/account/email/password_reset_key_message.txt:9
 #, python-format
 msgid "In case you forgot, your username is %(username)s."
-msgstr "اگر فراموش مرده اید، نام‌ کاربری شما %(username)s است."
+msgstr "اگر فراموش مرده اید، نام کاربری شما %(username)s است."
 
 #: templates/account/email/password_reset_key_subject.txt:3
 msgid "Password Reset E-mail"
-msgstr "ایمیل‌ تغییر رمز عبور"
+msgstr "ایمیل تغییر رمز عبور"
 
 #: templates/account/email_confirm.html:6
 #: templates/account/email_confirm.html:10
@@ -506,7 +506,7 @@ msgid ""
 "of your existing third party accounts. Or, <a href=\"%(signup_url)s\">sign "
 "up</a>\n"
 "for a %(site_name)s account and sign in below:"
-msgstr "لطفاً با یکی از حساب‌ های third party خود وارد شوید"
+msgstr "لطفاً با یکی از حساب های third party خود وارد شوید"
 
 
 
@@ -520,12 +520,12 @@ msgid ""
 "If you have not created an account yet, then please\n"
 "<a href=\"%(signup_url)s\">sign up</a> first."
 msgstr ""
-"اگر هنوز یه حساب نساخته اید، لطفا نخست <a href=\"%(signup_url)s\">ثبت‌نام</a> "
+"اگر هنوز یه حساب نساخته اید، لطفا نخست <a href=\"%(signup_url)s\">ثبت نام</a> "
 "کنید"
 
 #: templates/account/login.html:42 templates/account/password_change.html:14
 msgid "Forgot Password?"
-msgstr "رمز عبورخود را فراموش کرده‌اید؟"
+msgstr "رمز عبورخود را فراموش کرده اید؟"
 
 #: templates/account/logout.html:5 templates/account/logout.html:8
 #: templates/account/logout.html:17
@@ -539,7 +539,7 @@ msgstr "مطمئنید میخواهید خارج شوید؟"
 #: templates/account/messages/cannot_delete_primary_email.txt:2
 #, python-format
 msgid "You cannot remove your primary e-mail address (%(email)s)."
-msgstr "نمیتوانید نشانی ایمیل‌ اصلی‌ خود را حذف کنید"
+msgstr "نمیتوانید نشانی ایمیل اصلی خود را حذف کنید"
 
 #: templates/account/messages/email_confirmation_sent.txt:2
 #, python-format
@@ -549,7 +549,7 @@ msgstr "ایمیل تائیدیه به %(email)s فرستاده شد"
 #: templates/account/messages/email_confirmed.txt:2
 #, python-format
 msgid "You have confirmed %(email)s."
-msgstr "نشانی ایمیل‌ %(email)s تایید شد"
+msgstr "نشانی ایمیل %(email)s تایید شد"
 
 #: templates/account/messages/email_deleted.txt:2
 #, python-format
@@ -580,7 +580,7 @@ msgstr "نشانی ایمیل اصلی ثبت شد"
 
 #: templates/account/messages/unverified_primary_email.txt:2
 msgid "Your primary e-mail address must be verified."
-msgstr "نشانی ایمیل‌ اصلی‌ شما باید تایید شده باشد"
+msgstr "نشانی ایمیل اصلی شما باید تایید شده باشد"
 
 #: templates/account/password_change.html:5
 #: templates/account/password_change.html:8
@@ -604,7 +604,7 @@ msgid ""
 "Forgotten your password? Enter your e-mail address below, and we'll send you "
 "an e-mail allowing you to reset it."
 msgstr ""
-"رمز عبور خود را فراموش کرده‌اید؟ نشانی ایمیل خود را وارد کنید؛  ایمیل "
+"رمز عبور خود را فراموش کرده اید؟ نشانی ایمیل خود را وارد کنید؛  ایمیل "
 "شامل لینک تغییر رمز عبور را برای شما ارسال خواهد شد ."
 
 #: templates/account/password_reset.html:20
@@ -613,14 +613,14 @@ msgstr "درخواست تغییر رمز عبور"
 
 #: templates/account/password_reset.html:23
 msgid "Please contact us if you have any trouble resetting your password."
-msgstr "اگر مشکلی در تغییر رمز عبور ‌پیش آمده است، لطفاً با ما تماس بگیرید ."
+msgstr "اگر مشکلی در تغییر رمز عبور پیش آمده است، لطفاً با ما تماس بگیرید ."
 
 #: templates/account/password_reset_done.html:15
 msgid ""
 "We have sent you an e-mail. Please contact us if you do not receive it "
 "within a few minutes."
 msgstr ""
-" ایمیل ارسال شد. اگر تا چند دقیقه‌ی دیگرآن را دریافت نکردید با ما تماس بگیرید . "
+" ایمیل ارسال شد. اگر تا چند دقیقه ی دیگرآن را دریافت نکردید با ما تماس بگیرید . "
 
 #: templates/account/password_reset_from_key.html:7
 msgid "Bad Token"
@@ -656,7 +656,7 @@ msgstr "تعیین رمز عبور"
 
 #: templates/account/signup.html:5 templates/socialaccount/signup.html:5
 msgid "Signup"
-msgstr "ثبت‌ نام"
+msgstr "ثبت نام"
 
 #: templates/account/signup.html:8 templates/account/signup.html:18
 #: templates/socialaccount/signup.html:8 templates/socialaccount/signup.html:19
@@ -685,7 +685,7 @@ msgstr "توجه"
 #: templates/account/snippets/already_logged_in.html:5
 #, python-format
 msgid "you are already logged in as %(user_display)s."
-"از قبل با حساب %(user_display)s وارد شده‌اید" msgstr
+"از قبل با حساب %(user_display)s وارد شده اید" msgstr
 
 #: templates/account/verification_sent.html:5
 #: templates/account/verification_sent.html:8
@@ -751,12 +751,12 @@ msgstr "اتصال های حساب"
 msgid ""
 "You can sign in to your account using any of the following third party "
 "accounts:"
-msgstr "با هریک از حساب های  زیر میتوانید به حساب‌ خود وارد شوید :"
+msgstr "با هریک از حساب های  زیر میتوانید به حساب خود وارد شوید :"
 
 #: templates/socialaccount/connections.html:43
 msgid ""
 "You currently have no social network accounts connected to this account."
-msgstr " تاکنون هیچ حساب شبکه‌ی اجتماعی به این حساب متصل نشده است ."
+msgstr " تاکنون هیچ حساب شبکه ی اجتماعی به این حساب متصل نشده است ."
 
 #: templates/socialaccount/connections.html:46
 msgid "Add a 3rd Party Account"
@@ -774,11 +774,11 @@ msgid ""
 "accounts. If this was a mistake, please proceed to <a href=\"%(login_url)s"
 "\">sign in</a>."
 msgstr ""
-"ورود به سایت‌ با یکی از حساب‌ ها لغو شده است. اگر اشتباهی رخداده، لطفاً دوباره تلاش کنید "
+"ورود به سایت با یکی از حساب ها لغو شده است. اگر اشتباهی رخداده، لطفاً دوباره تلاش کنید "
 
 #: templates/socialaccount/messages/account_connected.txt:2
 msgid "The social account has been connected."
-msgstr "حساب اجتماعی‌ متصل شد."
+msgstr "حساب اجتماعی متصل شد."
 
 #: templates/socialaccount/messages/account_connected_other.txt:2
 msgid "The social account is already connected to a different account."
@@ -786,7 +786,7 @@ msgstr "این حساب اجتماعی قبلا به حساب دیگری متص�
 
 #: templates/socialaccount/messages/account_disconnected.txt:2
 msgid "The social account has been disconnected."
-msgstr "حساب اجتماعی‌ قطع ارتباط شد."
+msgstr "حساب اجتماعی قطع ارتباط شد."
 
 #: templates/socialaccount/signup.html:10
 #, python-format
@@ -819,5 +819,5 @@ msgstr ""
 #~ "You have confirmed that <a href=\"mailto:%(email)s\">%(email)s</a> is an "
 #~ "e-mail address for user %(user_display)s."
 #~ msgstr ""
-#~ "تایید کرده‌ای که <a href=\"mailto:%(email)s\">%(email)s</a> به نشانی "
+#~ "تایید کرده ای که <a href=\"mailto:%(email)s\">%(email)s</a> به نشانی "
 #~ "ایمیل برای کاربر %(user_display)s است."
