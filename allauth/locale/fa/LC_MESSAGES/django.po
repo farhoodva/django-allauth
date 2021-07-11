@@ -795,8 +795,7 @@ msgid ""
 "%(site_name)s. As a final step, please complete the following form:"
 msgstr ""
 "در چند قدمی ورود با حساب %(provider_name)s  هستید"
- "در گام آخر، لطفاً فرم زیر را کامل کنید"
-
+"در گام آخر، لطفاً فرم زیر را کامل کنید"
 
 #~ msgid "Account"
 #~ msgstr "حساب"
